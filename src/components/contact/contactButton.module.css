@@ -1,0 +1,45 @@
+.button{
+    background-color: rgb(83, 7, 7);
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    align-items: center;
+    padding :10px;
+    color: white;
+    border-radius: 18px;
+    border-style: none;
+    
+}
+.button span{
+    margin-left: 15px;
+}
+.svgIcon{
+width : 17px;
+
+}
+.ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row;
+    align-items: center;
+}
+.li{
+    margin-right: 15px;
+}
+.lilogin{
+    margin-right: 15px;
+    font-weight: 600;
+
+}
+.lilogout{
+    margin-right: 15px;
+    font-weight: 600;
+}
+.badge{
+    background-color: rgb(202, 54, 54);
+    font-weight: 600;
+    padding: 4px;
+    border-radius: 18px;
+    width:10px
+}

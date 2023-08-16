@@ -1,0 +1,17 @@
+.mealList{
+    display: flex;
+    justify-content:space-between ;
+    flex-flow: row;
+    flex-wrap: wrap;
+    border-bottom: 1px gray solid;
+    align-items: center;
+}
+.addmealButton{
+    color: white;
+    background-color: rgb(156, 33, 33);
+    font-weight: 600;
+    padding: 10px 25px;
+    border-radius: 18px 18px;
+    border-style: none;
+
+}
